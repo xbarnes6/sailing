@@ -1,0 +1,19 @@
+{
+  "name": "sailing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbarnes6/sailing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbarnes6/sailing/issues"
+  },
+  "homepage": "https://github.com/xbarnes6/sailing#readme"
+}
